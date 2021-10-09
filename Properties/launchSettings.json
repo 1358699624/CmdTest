@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "命令窗口": {
+      "commandName": "Project"
+    }
+    /*,
+    "Docker": {
+      "commandName": "Docker"
+    }*/
+  }
+}
